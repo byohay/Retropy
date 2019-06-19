@@ -7,7 +7,7 @@ matplotlib
 plotly
 sklearn
 scipy
-fix_yahoo_finance
+yfinance
 statsmodels
 beautifulsoup4
 python-bidi
