@@ -13,4 +13,4 @@ beautifulsoup4
 python-bidi
 ratelimiter
 seaborn
-ipykernel
+jupyter
