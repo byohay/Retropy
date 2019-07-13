@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 ./Research/.ipynb_checkpoints/
 .dropbox
+.bak
 private
 pyfinance/__pycache__
 framework/__pycache__
